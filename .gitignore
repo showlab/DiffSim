@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+vis
+*.png
+*.out
+*.pt
+models
+pretrained_models
+results
+image_copy.py
