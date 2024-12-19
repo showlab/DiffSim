@@ -20,17 +20,17 @@
   <table align="center">
     <tr>
     <td>
-      <img src="assets/teaser/t4.gif" alt='teaser1'>
+      <img src="assets/teaser.png" alt='teaser1'>
     </td>
     </tr>
   </table>
 
 ## 📢 News
-* **[Dec.16.2024]** Release DiffSim paper and source codes.
+* **[Dec.19.2024]** Release DiffSim paper and source codes.
 
 ## Preparation
 
-### Dataset Benchmarks Download
+### Dataset / Benchmarks Download
 
 Please download any of the 7 benchmarks below for evaluation:
 
