@@ -56,14 +56,13 @@ def night_eval():
             total_samples = 0
             correct_predictions = 0
             for row in reader:
-                # 仅处理验证集 'val'
                 if row['split'] != 'val':
                     continue
 
                 ref_path = os.path.join(args.image_path, row['ref_path'])
                 left_path = os.path.join(args.image_path, row['left_path'])
                 right_path = os.path.join(args.image_path, row['right_path'])
-                vote = int(row['left_vote'])  # 如果left和ref更相似，vote=1，否则vote=0
+                vote = int(row['left_vote'])
 
                 prompt = f"An image of a {row['prompt'].lower()}"
 
