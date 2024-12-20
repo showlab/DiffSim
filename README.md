@@ -10,7 +10,7 @@
     <a href="https://sites.google.com/view/showlab"><strong>Mike Zheng Shou</strong></a>
     <br>
     <br>
-        <a href="https://arxiv.org/abs/2311.16498"><img src='https://img.shields.io/badge/arXiv-AntiReference' alt='PDF - todo'></a>
+        <a href="https://arxiv.org/abs/2412.14580"><img src='https://img.shields.io/badge/arXiv-AntiReference' alt='PDF - todo'></a>
         <!-- <a href='https://showlab.github.io/magicanimate'><img src='https://img.shields.io/badge/Project_Page-AntiReference' alt='Project Page - todo'></a> -->
         <!-- <a href='https://huggingface.co/spaces/zcxu-eric/magicanimate'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a> -->
     <br>
