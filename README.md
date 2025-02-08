@@ -38,13 +38,13 @@ Please download any of the 7 benchmarks below for evaluation:
 
 Sref is a benchmark we propose. We have collected 508 styles, each hand-picked by human artists and featuring four thematically distinct reference images, created using Midjourney’s Sref mode. Midjourney’s style reference feature allows users to guide the style or aesthetic of generated images by using external pictures or style seeds in their prompt.
 
-Please download the benchmark at [here]().
+Please download the benchmark at [here](https://huggingface.co/datasets/yiren98/Sref).
 
 #### IP
 
 IP is a benchmark we propose. We have collected images of 299 IP characters and used advanced Flux models and the IP-Adapter to create several variants of each character with different consistency weights.
 
-Please download the benchmark at [here]().
+Please download the benchmark at [here](https://huggingface.co/datasets/yiren98/IPref/tree/main).
 
 #### CUTE
 
