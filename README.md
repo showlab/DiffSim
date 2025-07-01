@@ -26,6 +26,7 @@
   </table>
 
 ## 📢 News
+* **[Jun.26.2025]** DiffSim is accepted to ICCV 2025 🍀.
 * **[Dec.19.2024]** Release DiffSim paper and source codes.
 
 ## Preparation
