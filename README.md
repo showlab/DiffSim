@@ -93,5 +93,10 @@ python -u cute_main.py --image_path "/tiamat-NAS/songyiren/dataset/CUTE/" --imag
 ## Citation
 If you find this codebase useful for your research, please use the following entry.
 ```BibTeX
-TODO
+@article{song2024diffsim,
+  title={Diffsim: Taming diffusion models for evaluating visual similarity},
+  author={Song, Yiren and Liu, Xiaokang and Shou, Mike Zheng},
+  journal={arXiv preprint arXiv:2412.14580},
+  year={2024}
+}
 ```
